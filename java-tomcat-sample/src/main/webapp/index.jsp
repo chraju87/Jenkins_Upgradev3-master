@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline...</h2>
-<p>Adding New Line</p>
+<p>Adding New Line by using GIT</p>
 </body>
 </html>
